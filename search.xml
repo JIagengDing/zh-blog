@@ -20,23 +20,20 @@
   </entry>
   <entry>
     <title>y</title>
-    <url>/2021/09/23/sy/</url>
+    <url>/2021/09/23/y/</url>
     <content><![CDATA[<h1 id="hello-gdx">hello gdx</h1>
-<ul>
-<li><span class="math display">\[ \alpha \_1^n x = ? \]</span></li>
-</ul>
+<p><span class="math display">\[ \alpha \_1^n x = ? \]</span></p>
 <p><span class="math display">\[\begin{equation} \label{eq1}
 e=mc^2
 \end{equation}\]</span></p>
 <p><code>print('hello')</code></p>
-<p><code>print('hello world')</code></p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="built_in">print</span>(<span class="string">&#x27;hello world&#x27;</span>)</span><br></pre></td></tr></table></figure>
 ]]></content>
       <categories>
         <category>test1</category>
         <category>test2</category>
       </categories>
       <tags>
-        <tag>test</tag>
         <tag>ams</tag>
       </tags>
   </entry>
