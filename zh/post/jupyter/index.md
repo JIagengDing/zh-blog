@@ -66,9 +66,9 @@ passwd(algorithm='sha1')
 ```
 c.NotebookApp.allow_root = True
 c.NotebookApp.ip = '0.0.0.0'
-c.NotebookApp.notebook_dir = '~/JupyterLab'
+c.NotebookApp.notebook_dir = 'JupyterLab'
 c.NotebookApp.open_browser = False
-c.NotebookApp.password = u'<上面保存的sha1值>'
+c.NotebookApp.password = '<上面保存的sha1值>'
 c.NotebookApp.port = 8080
 ```
 
